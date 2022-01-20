@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1062359198495",
+    "firebase_url": "https://leon-ac15d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "leon-ac15d",
+    "storage_bucket": "leon-ac15d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062359198495:android:f878f8e2401516ea4f5e2a",
+        "android_client_info": {
+          "package_name": "com.example.leon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062359198495-j90oh3q7bkahgcadkpdk25jn19vviop8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj2HLg92m_M74twiLSEYL7SZjFI40L6Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062359198495-j90oh3q7bkahgcadkpdk25jn19vviop8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062359198495:android:0b33cffb72f64bad4f5e2a",
+        "android_client_info": {
+          "package_name": "com.example.listview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062359198495-j90oh3q7bkahgcadkpdk25jn19vviop8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj2HLg92m_M74twiLSEYL7SZjFI40L6Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062359198495-j90oh3q7bkahgcadkpdk25jn19vviop8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

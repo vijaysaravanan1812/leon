@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mic"
+        android:icon="@drawable/ic_mic"
+        android:title="Mic">
+
+    </item>
+    <item
+        android:title="History"
+        android:id="@+id/history"
+        android:icon="@drawable/ic_history">
+
+    </item>
+</menu>
